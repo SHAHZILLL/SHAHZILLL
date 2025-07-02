@@ -26,3 +26,9 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/shahzil-asif-75b3a5233/)
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/SHAHZILLL/SHAHZILLL/output/github-contribution-grid-snake.svg)
