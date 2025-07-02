@@ -15,12 +15,12 @@
 ---
 
 ### 📈 GitHub Stats
-![Shahzil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzil&show_icons=true&theme=radical)
+![Shahzil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHAHZILLL&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzil&layout=compact)
 
 ### 🧠 Current Projects
-- 🚧 Milqiah Customer Mobile App
+- 🚧 Working on: AI Dashboards
 - 🤖 AI Projects with YOLO & TensorRT
 - 🌐 AI Dashboard using Next.js + Zustand
 
